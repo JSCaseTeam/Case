@@ -1,0 +1,63 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+
+body {
+	font-size: 1rem;
+	font-family: 'Lato', sans-serif;
+	color: #fff;
+	background: url('../img/bgImgGrey.jpg') no-repeat fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
+a:hover {
+	color: #fff;
+}
+.page-cnt {
+	padding-top: 10%;
+}
+.slogan {
+	font-size: 1.9em;
+	text-align: center;
+	line-height: 2em;
+	letter-spacing: 0.07em;
+	padding-top: 0.5em;
+}
+.clips-cnt {
+	margin-top: 2em;
+}
+.clip-cnt p {
+	font-size: 1.7rem;
+	text-align: center;
+}
+@media screen and (max-width: 667px) {
+	.clips-cnt p {
+		font-size: 2.2em;
+		text-align: left;
+		padding-top: 1em;
+	}
+}
+.clip {
+	padding: 2em;
+}
+@media screen and (max-width:667px) {
+	.slogan {
+		font-size: 1.5em;
+		line-height: 1em;
+	}
+	.clip-cnt {
+		background: rgba(0,0,0,0.5);
+		margin-top: 1em;
+	}
+	.clip {
+		padding: 0.5em;
+	}
+	.clips-cnt {
+		margin-top: 6em;
+
+	}
+}
