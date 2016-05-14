@@ -1,0 +1,20 @@
+<svg id="Lager_1" data-name="Lager 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18.15 18.15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9e000;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+
+      .cls-2 {
+        font-size: 12px;
+        font-family: Myriad Pro;
+      }
+    </style>
+  </defs>
+  <title>circle3</title>
+  <circle class="cls-1" cx="9.08" cy="9.08" r="8.95"/>
+  <text class="cls-2" transform="translate(6.36 11.51)">3</text>
+</svg>

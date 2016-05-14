@@ -1,0 +1,27 @@
+{
+	"1":{
+		"title": "Design",
+		"text":"Vi erbjuder helhetslösningar som lyfter fram ditt varumärke.",
+		"link":"Läs mer om hur vi jobbar med Design->"
+	},
+	"2":{
+		"title": "Kommunikation",
+		"text":"Vi erbjuder helhetslösningar som lyfter fram ditt varumärke.",
+		"link":"Läs mer om hur vi jobbar med Kommunikation->"
+	},
+	"3":{
+		"title": "Koncept",
+		"text":"Vi hjälper våra kunder att ta fram kommunikationskomcept för produkten eller butiken.",
+		"link":"Läs mer om hur vi jobbar med Koncept->"
+	},
+	"4":{
+		"title": "Butiksdemo",
+		"text":"Vi erbjuder helhetslösningar som lyfter fram ditt varumärke.",
+		"link":"Läs mer om hur vi jobbar med Butiksdemon->"
+	},
+	"5":{
+		"title": "Varumärke",
+		"text":"Vi erbjuder helhetslösningar som lyfter fram ditt varumärke.",
+		"link":"Läs mer om hur vi jobbar med Varumärken->"
+	}
+}
